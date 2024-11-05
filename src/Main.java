@@ -17,7 +17,6 @@ public class Main {
         new Item("Pasta", 150, true, List.of("fast food", "sides"));
         new Item("Coke", 50, true, List.of("drinks"));
         new Item("Paratha", 50, true, List.of("mains"));
-        new Item("Biryani", 200, false, List.of("mains"));
         new Item("Toast", 50, false, List.of("breakfast"));
         new Item("Tea", 50, true, List.of("drinks"));
         new Item("Coffee", 50, true, List.of("drinks"));
