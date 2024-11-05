@@ -40,7 +40,9 @@ The user can enter commands to perform various operations.
 - Reviews can be added by accessing past orders and selecting given item.
 
 ## References
-- LocalDate class: `https://www.geeksforgeeks.org/java-time-localdate-class-in-java/`
-- TreeMap class: 'https://docs.oracle.com/javase/8/docs/api/java/util/TreeMap.html'
-- Linked List: 'https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html'
-- Exception class: 'https://stackoverflow.com/questions/8423700/how-to-create-a-custom-exception-type-in-java'
+- [LocalDate](https://www.geeksforgeeks.org/java-time-localdate-class-in-java/)
+- [TreeMap](https://docs.oracle.com/javase/8/docs/api/java/util/TreeMap.html)
+- [Linked List](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html)
+- [Exception class](https://stackoverflow.com/questions/8423700/how-to-create-a-custom-exception-type-in-java)
+
+### [Git-Hub](https://github.com/pride-k/ap-assignment-3/) 
